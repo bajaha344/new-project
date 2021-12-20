@@ -1,0 +1,6 @@
+function starttomcat()
+{
+cd /opt/tomcat/bin
+sh startup.sh
+}
+starttomcat
