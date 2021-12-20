@@ -4,3 +4,9 @@ cd /opt/tomcat/bin
 sh startup.sh
 }
 starttomcat
+function stoptomcat()
+{
+cd /opt/tomcat/bin
+sh shutdown.sh
+}
+stoptomcat
