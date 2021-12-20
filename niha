@@ -1,0 +1,4 @@
+read dir
+mkdir $dir
+cd $dir
+touch f1 f2 f3 f4
